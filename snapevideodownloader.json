@@ -44,11 +44,11 @@
         "cpabuild_offer_api_key" : ""
     },
     "ogads" : {
-        "ogads_offer_state" : true,
+        "ogads_offer_state" : false,
         "ogads_offer_user_id" : ""
     },
     "local_offer" : {
-        "local_offer_state" : true
+        "local_offer_state" : false
     }
   },
   "apps" : [
