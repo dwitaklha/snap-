@@ -16,9 +16,9 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "548579226489513_548919153122187#",
-      "facebook_interstitial_id" : "548579226489513_548919239788845#",
-      "facebook_native_id" : "548579226489513_548580649822704#",
+      "facebook_banner_id" : "548579226489513_548919153122187",
+      "facebook_interstitial_id" : "548579226489513_548919239788845",
+      "facebook_native_id" : "548579226489513_548580649822704",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
     "mode_ads_banner" : "admob",
